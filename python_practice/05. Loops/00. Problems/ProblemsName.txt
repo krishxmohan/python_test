@@ -1,0 +1,19 @@
+01. For Loop - 1
+02. For Loop - 2
+03. While Loop
+04. Table Difference
+05. Print Square
+06. Print Square wall
+07. Print Square Wall 2
+08. Right Angle Triangle
+09. Right Angle Triangle 2
+10. Inverted Right AngleTriangle
+11. Inverted Right Angle Triangle 2
+12. Sum of N Numbers
+13. Factorial
+14. Divisor
+15. Check Prime
+16. Next Prime Number
+17. Fibonacci Number
+18. GCD
+19. Capitalize and Count

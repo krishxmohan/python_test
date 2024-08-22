@@ -1,0 +1,6 @@
+01. Reverse String
+02. Check Palindrome
+03. Find Pattern
+04. Slice The String
+05. Change Case
+06. Print Alphabets

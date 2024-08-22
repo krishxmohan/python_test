@@ -1,0 +1,12 @@
+01. List Traversal
+02. List Traversal Reverse
+03. Sum The List
+04. Length of The List
+05. Decrement List Values
+06. Append To List
+07. Less Than
+08. Separate Even Odd
+09. Average
+10. Count Distinct
+11. Tuple 1
+12. Tuple 2

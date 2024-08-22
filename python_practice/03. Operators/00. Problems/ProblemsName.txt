@@ -1,0 +1,6 @@
+01. Arithmetic Operators
+02. Logical Operators
+03. Bitwise Operators
+04. Evaluate Formulae
+05. AP Term
+06. GP Term
